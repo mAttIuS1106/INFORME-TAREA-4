@@ -255,6 +255,14 @@ SECCIÓN 8-8
 
 ![](https://github.com/mAttIuS1106/INFORME-TAREA-4/blob/main/EJERCICIO%2086.1.PNG)
 
+VIDEO
 
+CONCLUSIONES
 
+1) Para el circuito serie-paralelo, para un análisis correcto, es necesario primero identificar y distinguir las partes del circuito conectado en paralelo y el circuito conectado en serie, y luego aplicar los conocimientos adquiridos. resistencia, corriente y voltaje. Por otra parte, para analizar los divisores de tensión es necesario tener en cuenta que estos producen una tensión de salida cuyo valor se deriva de cómo se utilizan, es decir, determinar si el divisor es bipolar o de carga actual y la corriente restante.
 
+2)Hay dos tipos de transductores en el circuito, el primero es convertir la fuente de voltaje en una fuente de corriente, en este caso el voltaje de la fuente debe dividirse por la resistencia interna de la fuente que generalmente es cero. El segundo tipo es la transformación de la fuente de corriente en una fuente de voltaje, en cuyo caso la corriente de la fuente debe multiplicarse por la resistencia interna de la fuente, que en la mayoría de los casos se considera infinita.
+
+BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos electricos. México: Pearson.
