@@ -14,4 +14,14 @@ Calcular la potencia de un circuito mediante el conocimiento previo de la Ley de
 
 Analizar las diferentes situaciones de la caída de voltaje mediante la realización de ejercicios y fundamentado en la teoría leída anteriormente.
 
-    MARCO TEÓRICO
+2. MARCO TEÓRICO
+
+![](https://github.com/mAttIuS1106/INFORME-TAREA-4/blob/main/MAPA%20CONCEPTUAL%201.PNG)
+
+![](https://github.com/mAttIuS1106/INFORME-TAREA-4/blob/main/MAPA%20CONCEPTUAL%202.PNG)
+
+![](https://github.com/mAttIuS1106/INFORME-TAREA-4/blob/main/MAPA%20CONCEPTUAL%203.PNG)
+
+![](https://github.com/mAttIuS1106/INFORME-TAREA-4/blob/main/MAPA%20CONCEPTUAL%204.PNG)
+
+
